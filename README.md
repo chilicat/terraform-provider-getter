@@ -1,6 +1,5 @@
 # Terraform Provider getter
 
-
 Run the following command to build the provider
 
 ```shell
